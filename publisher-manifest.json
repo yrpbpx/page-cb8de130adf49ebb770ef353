@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8c35758d47032b2b1d2cd287",
+  "owner": "yrpbpx",
+  "repo": "page-cb8de130adf49ebb770ef353",
+  "title": "SBZQL",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "cb8de130adf49ebb770ef353",
+      "a": "SBZQL",
+      "b": "2027最新官网",
+      "entity": "SBZQL",
+      "brand": "SBZQL",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "907ffb727e4ea89938da7e08f67c830d441c1eefa879790a6ec35c074c6652ea",
+      "content": {
+        "primary_entity": "SBZQL",
+        "keyword1": "SBZQL",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，订阅配置前先确认版本是否匹配。",
+          "AI_CLIENTS_TITLE": "设备客户端选择",
+          "AI_CLOSING_TEXT": "选对套餐与客户端，订阅配置一次到位。",
+          "AI_CLOSING_TITLE": "开始选择 SBZQL",
+          "AI_DESCRIPTION": "，面向需要跨境访问的场景提供多档加速套餐。基础版适合单人日常使用，旗舰版增加设备数与专线节点，团队版提供千兆流量和专属路由。选择时先看设备数量、月流量和订阅周期，再按客户端文档完成订阅配置，即可在常用设备上使用。",
+          "AI_FEATURES_INTRO": "从用量、设备数和节点质量三个方向挑选适合的套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备在线，适合单人或双人轻度浏览与基础流媒体。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备在线，含 IPLC 专线节点，适合游戏和较高画质流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备在线，支持定制路由，适合多人或小型团队共用。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备选档",
+          "AI_FEATURE_TITLE_3": "按场景选档",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的过程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "SBZQL 提供基础版、旗舰版和团队版三档加速服务，覆盖个人到团队的不同需求。选套餐时先估算每月流量和常用设备数量，再按对应客户端完成订阅导入，即可在电脑或手机上使用。",
+          "AI_HERO_SUBTITLE": "多档套餐覆盖个人与团队",
+          "AI_HIGHLIGHT_1": "三档套餐，按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线节点",
+          "AI_HIGHLIGHT_3": "年付价格低于月付累计",
+          "AI_PLANS_INTRO": "对比三档套餐的月流量、在线设备数和节点特性，按实际需求选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "先确认每月大致流量、同时在线设备数量以及是否玩在线游戏，再去对比三档套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量上限、设备限制和节点类型，确认满足日常使用与流媒体需求。",
+          "AI_STEP_TEXT_3": "根据设备系统选择客户端，按照客户端文档导入订阅链接，连接节点后即可开始使用。",
+          "AI_STEP_TITLE_1": "选服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "SBZQL 加速套餐选择",
+          "AI_FAQ_ANSWER_1": "单人日常使用选基础版，每月 100GB、3 台设备，按年付 ¥150/年。有游戏加速或多设备需求，可考虑旗舰版。",
+          "AI_FAQ_ANSWER_2": "可以。基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，覆盖手机、电脑和平板等常用设备。",
+          "AI_FAQ_ANSWER_3": "年付比月付更划算：基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用推荐年付。",
+          "AI_FAQ_ANSWER_4": "旗舰版针对游戏场景做了 IPLC 专线优化，延迟表现更稳，搭配 300GB 月流量和 5 台设备，适合游戏与流媒体并用。",
+          "AI_FAQ_ANSWER_5": "基础版解锁基础流媒体，旗舰版与团队版支持全节点原生流媒体解锁，团队版另有 VIP 高带宽节点。",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与付费周期。",
+          "AI_FAQ_QUESTION_1": "SBZQL 套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付差别大吗？",
+          "AI_FAQ_QUESTION_4": "旗舰版适合玩游戏吗？",
+          "AI_FAQ_QUESTION_5": "不同套餐的流媒体解锁有区别吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--yfr1pm0f89ghx0f.com",
+    "host": "xn--yfr1pm0f89ghx0f.com"
+  },
+  "file_hashes": {
+    "index.html": "0307e2732bd9a51672b4112d30ac527e50c678ee3db6889cc28aff43d91d807c",
+    "sitemap.xml": "91a1ea7ca67d39b41a083cb98571994fe44286589b045c36ab9c4586332eeecf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "5dd9fd83a6ce5dba0eb57284bdf112dae9e1a16a635791164965f982fbe4a32d",
+    "robots.txt": "79868b0b3ea42c704a2633ea38dcfdd9d358f9e28eadb1d8a70b47054efe2f0d",
+    "f133357cdacded9fe1691c498be54ff6.txt": "3600bc4e045146d6b7e53d968e7d6a393d73a638cfca2b234871577db22efdfc"
+  },
+  "revision": "cc8c9dd34cef870a11f9f3d7528ce08dd622885cbb2e7da80cb9f82dba3b0daf"
+}
